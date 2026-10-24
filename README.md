@@ -4,7 +4,9 @@
 
 20 years in IT, 10 of them in software development. Started in banking, going from support to system integrator, then moved into building web products.
 
-Currently a PhD student at the [Department of Aircraft Control Systems](https://kpi.ua/web_pskla), Institute of Aerospace Technologies, Igor Sikorsky Kyiv Polytechnic Institute.
+Currently a PhD student at Igor Sikorsky Kyiv Polytechnic Institute, Institute of Aerospace Technologies.
+
+[![KPI](https://img.shields.io/badge/KPI-Dept.%20of%20Aircraft%20Control%20Systems-1062A3)](https://kpi.ua/web_pskla) [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--2775--9983-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-2775-9983)
 
 ### 🎯 Focus
 

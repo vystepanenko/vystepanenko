@@ -1,8 +1,10 @@
 ## 👋 Hi, I'm Valentyn
 
-**Principal Engineer · Backend Team Lead** · Kyiv, Ukraine
+**Principal Engineer · Backend Team Lead · PhD Student** · Kyiv, Ukraine
 
 20 years in IT, 10 of them in software development. Started in banking, going from support to system integrator, then moved into building web products.
+
+Currently a PhD student at the [Department of Aircraft Control Systems](https://kpi.ua/web_pskla), Institute of Aerospace Technologies, Igor Sikorsky Kyiv Polytechnic Institute.
 
 ### 🎯 Focus
 
